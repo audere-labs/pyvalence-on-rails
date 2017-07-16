@@ -1,9 +1,10 @@
 <img src="logo/valence-logo.png" alt="valence" width="70%" display="block" margin="auto">
+
 ---
 
 ## On-Rails Overview
 
-This repository scenario based walk-throughs of [`valence`] features.
+Scenario based walk-throughs of [`valence`](https://github.com/blakeboswell/valence) features.
 
 ## Modules
 
