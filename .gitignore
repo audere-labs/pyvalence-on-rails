@@ -1,2 +1,6 @@
 notebooks/data
 notebooks/.ipynb_checkpoints
+*.pdf
+*.csv
+*.png
+*.pdf
