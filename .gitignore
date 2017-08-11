@@ -1,6 +1,6 @@
 notebooks/data
 notebooks/.ipynb_checkpoints
 *.pdf
-notebooks/concentrations.csv
+*.csv
 *.png
-notebooks/chromatograms.pdf
+*.pdf
