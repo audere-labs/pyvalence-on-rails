@@ -1,4 +1,4 @@
-<img src="logo/valence-logo.png" alt="valence" width="70%" display="block" margin="auto">
+<img src="logo/pyvalence-logo.png" alt="valence" width="70%" display="block" margin="auto">
 
 ---
 
